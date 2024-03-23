@@ -255,7 +255,6 @@ const retrieveMessagesInThread = async (threadId) => {
       document.querySelector("#chat-suggestion-block").style.display = "none";  
     })
   })
-	
 
 	// chat popup on mobile view
   const chatMobileButton = document.querySelector("#chat-mobile-button");
